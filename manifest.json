@@ -1,0 +1,22 @@
+{
+  "name": "Calculadora de Fidelidade",
+  "short_name": "Fidelidade",
+  "description": "Calculadora de multa contratual",
+  "start_url": "/calculadora-fidelidade/",
+  "display": "standalone",
+  "background_color": "#fff6f9",
+  "theme_color": "#f72b6a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/f72b6a/ffffff?text=F",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/f72b6a/ffffff?text=F",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
